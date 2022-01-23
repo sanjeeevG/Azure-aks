@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5e710d71-18c0-4504-ab4e-0bdbb6014d3a": {
+      "ProjectGuid": "5e710d71-18c0-4504-ab4e-0bdbb6014d3a",
+      "DisplayName": "AS_WebAPI1_App_Metrics",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "fd0bcee8-a19a-4d36-96ce-445e3e7834ca": {
+      "ProjectGuid": "fd0bcee8-a19a-4d36-96ce-445e3e7834ca",
+      "DisplayName": "WebAPI_OpenTelemetry",
+      "ColorIndex": 1
+    },
+    "baa7d6e5-b0a7-4e3f-8b54-050187fa0fb7": {
+      "ProjectGuid": "baa7d6e5-b0a7-4e3f-8b54-050187fa0fb7",
+      "DisplayName": "BlazorApp1.Server",
+      "ColorIndex": 2
+    },
+    "bac2be39-55d9-4187-864c-ca817b1d18e0": {
+      "ProjectGuid": "bac2be39-55d9-4187-864c-ca817b1d18e0",
+      "DisplayName": "BlazorApp1.Client",
+      "ColorIndex": 3
+    },
+    "e70eb370-54fe-4fc7-ac28-523ec97143b7": {
+      "ProjectGuid": "e70eb370-54fe-4fc7-ac28-523ec97143b7",
+      "DisplayName": "BlazorApp1.Shared",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

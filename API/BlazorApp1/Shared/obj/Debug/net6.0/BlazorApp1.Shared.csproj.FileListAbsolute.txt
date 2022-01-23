@@ -1,0 +1,12 @@
+D:\Sanjeev\099_POC\Azure\API\BlazorApp1\Shared\bin\Debug\net6.0\BlazorApp1.Shared.deps.json
+D:\Sanjeev\099_POC\Azure\API\BlazorApp1\Shared\bin\Debug\net6.0\BlazorApp1.Shared.dll
+D:\Sanjeev\099_POC\Azure\API\BlazorApp1\Shared\bin\Debug\net6.0\ref\BlazorApp1.Shared.dll
+D:\Sanjeev\099_POC\Azure\API\BlazorApp1\Shared\bin\Debug\net6.0\BlazorApp1.Shared.pdb
+D:\Sanjeev\099_POC\Azure\API\BlazorApp1\Shared\obj\Debug\net6.0\BlazorApp1.Shared.csproj.AssemblyReference.cache
+D:\Sanjeev\099_POC\Azure\API\BlazorApp1\Shared\obj\Debug\net6.0\BlazorApp1.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sanjeev\099_POC\Azure\API\BlazorApp1\Shared\obj\Debug\net6.0\BlazorApp1.Shared.AssemblyInfoInputs.cache
+D:\Sanjeev\099_POC\Azure\API\BlazorApp1\Shared\obj\Debug\net6.0\BlazorApp1.Shared.AssemblyInfo.cs
+D:\Sanjeev\099_POC\Azure\API\BlazorApp1\Shared\obj\Debug\net6.0\BlazorApp1.Shared.csproj.CoreCompileInputs.cache
+D:\Sanjeev\099_POC\Azure\API\BlazorApp1\Shared\obj\Debug\net6.0\BlazorApp1.Shared.dll
+D:\Sanjeev\099_POC\Azure\API\BlazorApp1\Shared\obj\Debug\net6.0\ref\BlazorApp1.Shared.dll
+D:\Sanjeev\099_POC\Azure\API\BlazorApp1\Shared\obj\Debug\net6.0\BlazorApp1.Shared.pdb
