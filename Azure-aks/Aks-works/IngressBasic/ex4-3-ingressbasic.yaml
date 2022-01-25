@@ -1,0 +1,17 @@
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: nginxapp1-ingress-service
+  labels:
+    name: nginxapp1-ingress-service
+spec:
+  rules:
+  - http:       #basic http rule, IP: 20.112.96.36
+      paths:
+      - path: "/"
+        pathType: Prefix
+        backend:
+          service:
+            name: app1-nginx-clusterip-service
+            port: 
+              number: 80
